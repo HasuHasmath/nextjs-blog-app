@@ -1,3 +1,10 @@
+export const metadata = {
+  title : "About Us Page",
+  description : "Hasmath"
+}
+
+
+
 export default function About(){
     return (
       <main className="container mx-auto px-4 py-6">
